@@ -2,7 +2,6 @@ import { Button, TextField } from "@mui/material";
 import React from "react";
 import "./form.css";
 import { v4 as uuidv4 } from 'uuid';
-// import IconButton from '@mui/material/IconButton';
 
 const Forms = ( {input, setInput, todos, setTodos}) => {
   const onInputChange = (event) =>{

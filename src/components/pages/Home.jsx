@@ -15,10 +15,6 @@ const Home = () => {
 setTodos(newTodo)
   }
 
-//   const checkTodo=(name)=>{
-//     const newTodo= todos.filter((todo)=>name)
-// setTodos("textDecoration: 'line-through'")
-//  }
 
   return (
     <>
